@@ -1,6 +1,6 @@
 # QR Magic: Ultimate QR Code Generator
 
-![QR Magic Banner](https://via.placeholder.com/800x200?text=QR+Magic+-+Generate+Dynamic+QR+Codes+Easily)
+![QR Magic Banner](/banner.png)
 
 QR Magic is a powerful, user-friendly QR code generator that allows you to create customized QR codes for URLs, text, contact information, WiFi credentials, and more. With an intuitive interface and extensive customization options, QR Magic makes generating professional QR codes simple and efficient.
 
